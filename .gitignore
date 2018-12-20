@@ -40,3 +40,5 @@ Thumbs.db
 *.csproj
 .ide
 *.ide
+*.ide-wal
+matchingPattern/.vs/matchingPattern/v15/Server/sqlite3/storage.ide-shm
