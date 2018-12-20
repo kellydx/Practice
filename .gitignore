@@ -42,3 +42,4 @@ Thumbs.db
 *.ide
 *.ide-wal
 matchingPattern/.vs/matchingPattern/v15/Server/sqlite3/storage.ide-shm
+*.ide-shm
