@@ -1,0 +1,7 @@
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\obj\Debug\consecutiveArray.csprojResolveAssemblyReference.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\obj\Debug\consecutiveArray.csproj.CoreCompileInputs.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\bin\Debug\consecutiveArray.exe.config
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\bin\Debug\consecutiveArray.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\bin\Debug\consecutiveArray.pdb
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\obj\Debug\consecutiveArray.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\consecutiveArray\consecutiveArray\obj\Debug\consecutiveArray.pdb
