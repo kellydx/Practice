@@ -1,0 +1,7 @@
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\obj\Debug\matchingPattern.csprojResolveAssemblyReference.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\obj\Debug\matchingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\bin\Debug\matchingPattern.exe.config
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\bin\Debug\matchingPattern.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\bin\Debug\matchingPattern.pdb
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\obj\Debug\matchingPattern.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\matchingPattern\matchingPattern\obj\Debug\matchingPattern.pdb
