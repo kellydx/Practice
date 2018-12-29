@@ -1,0 +1,7 @@
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\bin\Debug\threeSum.exe.config
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\bin\Debug\threeSum.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\bin\Debug\threeSum.pdb
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\obj\Debug\threeSum.csprojResolveAssemblyReference.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\obj\Debug\threeSum.csproj.CoreCompileInputs.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\obj\Debug\threeSum.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\threeSum\threeSum\obj\Debug\threeSum.pdb

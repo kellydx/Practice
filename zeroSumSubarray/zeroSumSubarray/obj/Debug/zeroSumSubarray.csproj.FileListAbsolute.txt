@@ -1,0 +1,7 @@
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\bin\Debug\zeroSumSubarray.exe.config
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\bin\Debug\zeroSumSubarray.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\bin\Debug\zeroSumSubarray.pdb
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\obj\Debug\zeroSumSubarray.csprojResolveAssemblyReference.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\obj\Debug\zeroSumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\obj\Debug\zeroSumSubarray.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\zeroSumSubarray\zeroSumSubarray\obj\Debug\zeroSumSubarray.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\bin\Debug\2NumMaximumProduct.exe.config
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\bin\Debug\2NumMaximumProduct.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\bin\Debug\2NumMaximumProduct.pdb
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\obj\Debug\2NumMaximumProduct.csproj.CoreCompileInputs.cache
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\obj\Debug\2NumMaximumProduct.exe
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\obj\Debug\2NumMaximumProduct.pdb
+C:\Users\Kelly Duong\Desktop\New folder\C-Projects\Practice\2NumMaximumProduct\2NumMaximumProduct\obj\Debug\2NumMaximumProduct.csprojResolveAssemblyReference.cache
